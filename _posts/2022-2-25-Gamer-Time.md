@@ -7,4 +7,4 @@ tags: blog
 
 This is the true gamer time for me
 
-![](https://images.app.goo.gl/XUFsGHeAWr7Nnxra7)
+[](https://images.app.goo.gl/XUFsGHeAWr7Nnxra7)
