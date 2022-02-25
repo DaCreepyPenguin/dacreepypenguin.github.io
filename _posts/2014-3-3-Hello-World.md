@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First blog post!
-published: false
+published: true
 tags: blog
 ---
 
