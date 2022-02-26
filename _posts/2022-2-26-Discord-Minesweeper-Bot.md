@@ -2,7 +2,7 @@
 layout: post
 title: Discord Minesweeper
 published: true
-tags: blog project
+tags: blog project Bot Game MinesweeperBot
 ---
 
 I think I have a new idea for a project!
