@@ -7,7 +7,7 @@ tags: blog project
 
 I think I have a new idea for a project!
 
-![minesweeper game](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fricherramblings.files.wordpress.com%2F2015%2F08%2Fminesweeper.jpg&f=1&nofb=1)
+![minesweeper game src:richerramblings.wordpress.com](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fricherramblings.files.wordpress.com%2F2015%2F08%2Fminesweeper.jpg&f=1&nofb=1)
 
 I want to make a discord bot that allows players to 'play' minesweeper. My current plan is to have a discord bot that creates a minesweeper grid of spoilers which allows you to click on the boxes to reveal what is underneath (as I am writing this I am thinking of a lot of issues).
 
