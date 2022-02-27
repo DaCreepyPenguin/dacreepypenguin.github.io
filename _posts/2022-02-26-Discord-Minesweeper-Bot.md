@@ -3,6 +3,7 @@ layout: post
 title: Discord Minesweeper
 published: true
 tags: project game minesweeper python
+pinned: false
 ---
 
 I think I have a new idea for a project!

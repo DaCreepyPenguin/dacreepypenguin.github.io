@@ -7,17 +7,37 @@ title: Home
 <a href="{{ site.baseurl}}/search">Search</a>
 
 <div class="posts"> 
+
   {% for post in site.posts %}
-    <article class="post">
+    {% if post.pinned %}
+      <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+        <p class="pinned">Pinned Post</p>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endif %}
+  {% endfor %}
+
+
+  {% for post in site.posts %}
+    {% if post.pinned == false %}
+      <article class="post">
+
+        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      </article>
+    {% endif %}
   {% endfor %}
   {% include archive.html %}
 </div>
