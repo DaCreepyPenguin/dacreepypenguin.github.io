@@ -2,9 +2,14 @@
 layout: default
 ---
 
+
 <article class="page">
 
   <h1>{{ page.title }}</h1>
+  
+  {% if page.empty%}
+    <p>Nothing is here yet <a href="{{ site.baseurl }}/">return to home</span></p>
+  {% endif %}
 
   <div class="entry">
     {{ content }}
