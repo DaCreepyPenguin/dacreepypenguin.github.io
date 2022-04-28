@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discord Minesweeper
-published: true
+published: false
 tags: project game minesweeper python
 pinned: false
 ---

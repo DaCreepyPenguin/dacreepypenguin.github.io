@@ -1,27 +1,18 @@
----
-layout: page
-title: About
-permalink: /about/
----
+I"v<h2 id="dacreepypenguin--student-programmer">DaCreepyPenguin | Student Programmer</h2>
 
+<p>Hello There! My name is DaCreepyPenguin, I am a computer science student in the UK and this is my site. I have been interested in programming for a very long time now however at first I was focusing on the performing arts, now I spend a lot of my time working on computers and have found myself studying computer science at college with performing as just a hobby. I hope to one day join the military and maintain programming as a fun side thing and never let it become a boring job.</p>
 
-DaCreepyPenguin | Student, Programmer
-------------------
+<ul>
+  <li>🗺️󠁧󠁢󠁥󠁮󠁧  I’m based in Wiltshire, UK</li>
+  <li>🖥️  See my portfolio at <a href="http://penguinstudios.tech">my website</a></li>
+  <li>📫  You can contact me at <a href="mailto:dcp@penguinstudio.tech">dcp@penguinstudio.tech</a></li>
+  <li>⚙️  I’m currently working on <a href="http://penguinstudio.tech">my website</a> as I have no time for anything else</li>
+  <li>🎓  I’m learning expand my knowledge of new languages and frameworks as well as reinforcing knowledge I already have</li>
+</ul>
 
-Hello There! My name is DaCreepyPenguin, I am a computer science student in the UK and this is my site. I have been interested in programming for a very long time now however at first I was focusing on the performing arts, now I spend a lot of my time working on computers and have found myself studying computer science at college with performing as just a hobby. I hope to one day join the military and maintain programming as a fun side thing and never let it become a boring job.
+<p><a href="https://www.twitter.com/dcreepy_penguin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/dcreepy_penguin?logo=twitter&amp;style=for-the-badge&amp;color=a855f7&amp;labelColor=0f172a" /></a><a href="https://www.twitch.tv/dacreepypenguin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitch/status/dacreepypenguin?logo=twitchsx&amp;style=for-the-badge&amp;color=a855f7&amp;labelColor=0f172a&amp;label=TWITCH+STATUS" /></a></p>
 
-* 🗺️󠁧󠁢󠁥󠁮󠁧  I'm based in Wiltshire, UK
-* 🖥️  See my portfolio at [my website](http://penguinstudios.tech)
-* 📫  You can contact me at [dcp@penguinstudio.tech](mailto:dcp@penguinstudio.tech)
-* ⚙️  I'm currently working on [my website](http://penguinstudio.tech) as I have no time for anything else
-* 🎓  I'm learning expand my knowledge of new languages and frameworks as well as reinforcing knowledge I already have
-
-<a href="https://www.twitter.com/dcreepy_penguin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/dcreepy_penguin?logo=twitter&style=for-the-badge&color=a855f7&labelColor=0f172a"
-/></a><a href="https://www.twitch.tv/dacreepypenguin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/dacreepypenguin?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=0f172a&label=TWITCH+STATUS" /></a>
-
-### Skills
+<h3 id="skills">Skills</h3>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -40,23 +31,24 @@ src="https://img.shields.io/twitch/status/dacreepypenguin?logo=twitchsx&style=fo
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
-
-### Socials
+<h3 id="socials">Socials</h3>
 
 <p align="left"> <a href="https://www.github.com/DaCreepyPenguin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@DaCreepyPenguin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dacreepypenguin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dcreepy_penguin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/dacreepypenguin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
-### Badges
+<h3 id="badges">Badges</h3>
 
-<b>My GitHub Stats</b>
+<p><b>My GitHub Stats</b></p>
 
-<a href="http://www.github.com/DaCreepyPenguin"><img src="https://github-readme-stats.vercel.app/api?username=DaCreepyPenguin&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="DaCreepyPenguin's GitHub stats" /></a>
+<p><a href="http://www.github.com/DaCreepyPenguin"><img src="https://github-readme-stats.vercel.app/api?username=DaCreepyPenguin&amp;show_icons=true&amp;hide=&amp;count_private=true&amp;title_color=3382ed&amp;text_color=ffffff&amp;icon_color=a855f7&amp;bg_color=0f172a&amp;hide_border=true&amp;show_icons=true" alt="DaCreepyPenguin's GitHub stats" /></a></p>
 
-<a href="http://www.github.com/DaCreepyPenguin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaCreepyPenguin&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<br><br>
-<hr>
-<br>
-### Contact me
+<p><a href="http://www.github.com/DaCreepyPenguin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaCreepyPenguin&amp;stroke=ffffff&amp;background=0f172a&amp;ring=3382ed&amp;fire=3382ed&amp;currStreakNum=ffffff&amp;currStreakLabel=3382ed&amp;sideNums=ffffff&amp;sideLabels=ffffff&amp;dates=ffffff&amp;hide_border=true" /></a>
+<br /><br /></p>
+<hr />
 
-[dacreepypenguin@gmail.com](mailto:dacreepypenguin@gmail.com)
+<p><br /></p>
+<h3 id="contact-me">Contact me</h3>
 
-**I use photos and images from the internet on my posts, I would like to reassure the owners of these images that this site is entirely non-profit and only for my personal enjoyment however if you are un-happy with me using your content in any of my posts please contact me using the email above and I will remove it :)**
+<p><a href="mailto:dacreepypenguin@gmail.com">dacreepypenguin@gmail.com</a></p>
+
+<p><strong>I use photos and images from the internet on my posts, I would like to reassure the owners of these images that this site is entirely non-profit and only for my personal enjoyment however if you are un-happy with me using your content in any of my posts please contact me using the email above and I will remove it :)</strong></p>
+:ET
